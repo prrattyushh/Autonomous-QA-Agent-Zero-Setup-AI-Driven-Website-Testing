@@ -1,0 +1,6 @@
+requests 
+playwright 
+streamlit 
+google-genai 
+jsonschema 
+pillow 
